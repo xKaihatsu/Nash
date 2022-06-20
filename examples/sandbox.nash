@@ -1,0 +1,3 @@
+function main(): void {
+    printInteger(42);
+}
